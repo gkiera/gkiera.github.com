@@ -1,2 +1,2 @@
-# gkiera.github.com
+# gkiera.github.io
 Example website for DataTrail
