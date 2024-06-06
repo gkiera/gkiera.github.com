@@ -1,0 +1,66 @@
+---
+title: "index.Rmd"
+author: "Kiera"
+date: "2024-04-11"
+output: 
+  html_document:
+    theme: simplex
+    highlight: textmate
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## About
+
+My name is KIERA. I am 22 years old studying data science. I aim to have a career working with computers.
+
+## Interests
+
+* Digital arts
+* Console mods
+* My cat
+
+## Projects
+
+* You Are Here
+
+## Profiles
+
+* [Leanpub](https://www.leanpub.com/u/kiera)
+* [GitHub](http://github.com/gkiera)
+
+## Contact
+
+* Sorry
+
+───▄▛▀▀▙▄▀▀▝▀▀▝▘▘▖▖▄█▙▄▖──────
+
+──▐▘──▗▌───────────▌───▜──────
+
+──▝▙▟▀▚▗▄──────────▐▄▗▄▛──────
+
+─────▖▟▜█▀█─────▙██▄▞▘▖───────
+
+────▐▘█▛▀▜▛────▐▙▄█▐▌─▌▄▞▀▀▚▄─
+
+────▐─▀██▛▘────▐█▄▟█▘─█──▗▖─▐▌
+
+────▐───────────▀▀▀──▗█▛▀▀──▞─
+
+────▝▙──▝▙▄▄█▙▄▄▘──▗▄▛─▝▀▀▟▀▘─
+
+───▄▄▟▀▚▄─▐▖▘─▌─▄▖▝▀───────▜▖─
+
+──▛───▀▀▄──▀▀▀▘▛▀▀▚▄────────▜─
+
+──▐▞▀──────────▌▗▄───────▟─▗▛─
+
+───▝▜▄▄▖───────▀▄▄▄▄──▗▟▀▀▀▘──
+
+───────▝▀─▄▄──────▗▄▟▀▘───────
+
+───────────▝▀▝▀▀▀▀▀───────────
+
+─────▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄────
